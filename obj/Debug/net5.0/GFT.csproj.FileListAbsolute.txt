@@ -1,0 +1,16 @@
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.csprojAssemblyReference.cache
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.AssemblyInfoInputs.cache
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.AssemblyInfo.cs
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.exe
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.deps.json
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.runtimeconfig.json
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.runtimeconfig.dev.json
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.dll
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\ref\GFT.dll
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\bin\Debug\net5.0\GFT.pdb
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.dll
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\ref\GFT.dll
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.pdb
+C:\Users\Sandro\Documents\Cursos\Dio\GFT\obj\Debug\net5.0\GFT.genruntimeconfig.cache
